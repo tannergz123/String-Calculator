@@ -33,7 +33,6 @@ string trim_leading_zeros(string num) {
 }
 
 string add(string lhs, string rhs) {
-    // TODO(sudent): implement
 
     int sign = 1;
     if(lhs.at(0) == '-') {
